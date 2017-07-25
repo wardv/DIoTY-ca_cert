@@ -1,5 +1,5 @@
-# DIoTY-ca_cert
-ca certificate for dioty.co
+# DIoTY-ca_cert for your MQTT broker dioty.co
+ca certificate for DIoTY (www.dioty.co)
 
 Sample usage using the mosquitto client libraries:
 
